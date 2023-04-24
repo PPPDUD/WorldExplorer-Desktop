@@ -1,20 +1,8 @@
-# Browser
-This project is a browser made using python.<br>
-This browser has features like:
-* Next - Navigates to the next page
-* Back - Navigates to previous page
-* Reload - Reloads the page
-* Home - Navigaves to home page<br>
+# WorldExplorer Desktop - the ultimate Catalyst competitor.
 
-In this browser the default link is set to [Google!](http://google.com)<br>
-The main advantage of this browser is :
-* It doesn't save browsing history
-* It doesn't save cookies<br>
-* It doesn't save any data<br>
+I've always been wondering, why hasn't jdev082 just released the Python edition of Catalyst already?? For that reason, I've decided to make WorldExplorer Desktop, a browser designed to beat the upcoming next-gen Catalyst before it even starts.
 
-So it is completely safe to use.<br>
-The module used in this project is **[PyQt5](https://pypi.org/project/PyQt5/)**<br>
+Features include:
 
-**Sample Output:**
-
-![Sample Output](/Demo.png)
+Cookie blocking - Since it inherits code from the Browser, it can block cookies before they even start.
+Free(dom) - With WorldExplorer Desktop, there is no license, meaning you can do anything with it. In fact, if you'd like, you can mke profit off of it
