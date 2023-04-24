@@ -4,5 +4,7 @@ I've always been wondering, why hasn't jdev082 just released the Python edition 
 
 Features include:
 
-Cookie blocking - Since it inherits code from the Browser, it can block cookies before they even start.
-Free(dom) - With WorldExplorer Desktop, there is no license, meaning you can do anything with it. In fact, if you'd like, you can mke profit off of it
+Cookie blocking - Since WorldExplorer Desktop inherits code from the Browser, it can block cookies before they even start.
+Free(dom) - With WorldExplorer Desktop, there is no license, meaning you can do anything with it. In fact, if you'd like, you can even make profit off of it! You can also relicense it easily.
+
+No Electron junk required - Since WorldExplorer Desktop runs off of Python, there is no need to use the bloated thing called Electron.
